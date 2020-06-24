@@ -10,3 +10,5 @@ For this task I should write a description of my favourite movie character. I li
 
 Some wise words from Flash
 > Whenever I win, it feels like I'm losing.
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/L80385-flash-superhero-logo-1544.png"/>
