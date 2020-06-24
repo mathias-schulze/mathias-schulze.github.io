@@ -7,3 +7,6 @@ For this task I should write a description of my favourite movie character. I li
 * Team Flash
 * Star Labs
 * time travels
+
+Some wise words from Flash
+> Whenever I win, it feels like I'm losing.
