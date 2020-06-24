@@ -1,1 +1,1 @@
-A website for my favourite character is currently being built here!
+# Title of the Website build for Let's git course on OpenHPI
